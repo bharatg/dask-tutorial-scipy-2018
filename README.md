@@ -1,3 +1,7 @@
+[![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab_on_binder-red.svg)](https://mybinder.org/v2/gh/bharatg/dask-tutorial-scipy-2018/master?urlpath=lab)
+
+
+
 # Parallel Data Analysis with Dask
 
 Materials for the [Dask tutorial at SciPy 2018](https://scipy2018.scipy.org/ehome/index.php?eventid=299527&tabid=711308&cid=2229599&sessionid=21547348&sessionchoice=1&).
